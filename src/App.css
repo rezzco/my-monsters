@@ -2,10 +2,7 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -35,4 +32,10 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+h1 {
+  font-family: 'Bigelow Rules', cursive;
+  font-size: 72px;
+  color:#0ccac4;
 }
